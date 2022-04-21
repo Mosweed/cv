@@ -301,7 +301,7 @@ color: white;
 }
 @media screen and (max-width:390px){
     .btn{
-        font-size: 1.5rem;
+        font-size: 20px;
     }
     .name{
         font-size: 1.5rem;
