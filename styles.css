@@ -52,6 +52,9 @@ body{
     background-color: #f7f7f7;
     height: 100%;
 }
+.no-blue {
+    color: white;  /* Of een andere kleur die jij wilt */
+}
 
 
 .left-content{
